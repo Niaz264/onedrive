@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-aria2c
+aria2p
 python-dotenv
 pytz
 pymongo
