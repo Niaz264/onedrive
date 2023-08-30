@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-it+https://github.com/mayswind/aria2p.git@v1.36.0
+git+https://github.com/mayswind/aria2p.git
 python-dotenv
 pytz
 pymongo
