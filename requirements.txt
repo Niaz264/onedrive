@@ -5,3 +5,5 @@ python-dotenv
 pytz
 pymongo
 uvloop
+flask
+flask_restful
