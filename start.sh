@@ -1,2 +1,2 @@
 python3 frontal.py &
-python3 -m bot
+python3 -m drive1bot
